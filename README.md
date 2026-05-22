@@ -63,12 +63,7 @@ Display all filtered images using a grid layout for comparison.
 
 ---
 
-##  Developed By
 
-- **Name:** ____________________________  
-- **Register No:** ______________________  
-
----
 
 ##  Output
 
@@ -91,3 +86,10 @@ Display all filtered images using a grid layout for comparison.
 Thus, smoothing filters and sharpening filters are successfully implemented using OpenCV.
 
 The smoothing filters reduce noise and improve image quality, while sharpening filters enhance edges and details for better feature extraction.
+
+##  Developed By
+
+- **Name:** Ashok Kumar Preetham Kumar
+- **Register No:** 212224040032
+
+---
